@@ -1,6 +1,7 @@
 {
  "work": "沙石集",
  "work_id": "shasekishu",
+ "repo": "kumoi-no-fumigura/shasekishu",
  "yomi": "しゃせきしゅう",
  "category": "説話",
  "editions": [
@@ -2572,6 +2573,5 @@
    ],
    "text": "015845-000-71804-I737sn沙石集無住(一円)/著2版M30ABC-1602"
   }
- ],
- "repo": "kumoi-no-fumigura/shasekishu"
+ ]
 }
